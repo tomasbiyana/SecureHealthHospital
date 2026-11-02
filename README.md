@@ -1,6 +1,6 @@
 # SECURE HEALTH GENERAL HOSPITAL PERFORMANCE DASHBOARD
 
-![Introductory Healthcare Context](introductory image.png)
+![Introductory Poster](introductory image.jpg)
 
 ## I. Title
 **SECURE HEALTH GENERAL HOSPITAL PERFORMANCE DASHBOARD**
