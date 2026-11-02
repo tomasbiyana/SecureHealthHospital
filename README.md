@@ -1,6 +1,6 @@
 # SECURE HEALTH GENERAL HOSPITAL PERFORMANCE DASHBOARD
 
-![Introductory Healthcare Context](watermarked_img_3715234815447484215.jpg)
+![Introductory Healthcare Context](introductory image.png)
 
 ## I. Title
 **SECURE HEALTH GENERAL HOSPITAL PERFORMANCE DASHBOARD**
@@ -35,7 +35,7 @@ Secure Health General Hospital faced several key operational and financial chall
 ## V. Visualization
 
 ### Dashboard Overview (`Dashboard_Image`)
-![Secure Health Dashboard Overview](image_593967.png)
+![Secure Health Dashboard Overview](Dashboard.png)
 
 ---
 
